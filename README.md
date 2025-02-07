@@ -8,9 +8,16 @@
 
 > "博学之，审问之，慎思之，明辨之，笃行之。"
 
-- 🎓 浙江大学控制工程专业硕士(Master of Control Engineering, Zhejiang University)
-- 🔭 正在从事多模态数据合成、o3、multi agent、超长上下文的研究
-- 🌱 
+
+
+- 🎓 **浙江大学控制工程专业硕士**  
+  *Master of Control Engineering, Zhejiang University*
+
+- 🔭 **正在从事端到端自动驾驶工作**  
+  主要从事决策规划和模型评估相关工作
+
+- 🌱 **对大型语言模型（LLMs）充满兴趣**  
+  积极学习和研究大型语言模型的基础知识和应用，欢迎交流
 
 ## 💻 技术栈 | Tech Stack
 
@@ -39,7 +46,9 @@
 
 ## 🚀 个人项目 | 
 
-待施工
+| 项目名称 | 描述 | 语言 | 仓库地址 |
+| --- | --- | --- | --- |
+| LLMs-From-Zero-to-Hero | 手撕 LLMs 基础代码 | Python | [GitHub](https://github.com/MechaBear7/llms-from-zero-to-hero) |
 
 ## 📊 GitHub 统计 | Statistics
 
